@@ -7,6 +7,7 @@ private.py
 *.sav
 *.jpg
 !prediction.csv
+!raw_prediction.csv
 # Jupyter Notebook
 *.ipynb_checkpoints/
 
